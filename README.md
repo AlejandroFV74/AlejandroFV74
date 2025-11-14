@@ -1,5 +1,7 @@
 ## Hi there, welcome to my profile 👋👾
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AlejandroFV74
+
 🎓 I'm a 20-year-old Computer Engineering student with a passion for technology and software development.  
 ♟️ In my free time, I enjoy playing chess to sharpen my strategic thinking.
 
