@@ -16,8 +16,8 @@
 
 ## GitHub Stats
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroFV74&count_private=true&show_icons=true&theme=radical)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlejandroFV74)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroFV74&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlejandroFV74)](https://github.com/ryo-ma/github-profile-trophy)
 
 
