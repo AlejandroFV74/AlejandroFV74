@@ -17,10 +17,11 @@
 ## GitHub Stats
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroFV74&count_private=true&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroFV74&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlejandroFV74)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+## Connect with me
+<p> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/abraham-flores-524425249" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /> </a> 
+  <!-- Instagram --> <a href="https://www.instagram.com/alejandro.flores_274" target="_blank" style="margin-left: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" /> </a> </p>
 
 
 
