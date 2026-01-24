@@ -2,29 +2,30 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AlejandroFV74)
 
-## 👋 About Me
+## About Me
 💻 Computer Science student & Android / Web Developer  
 📱 Passionate about mobile apps, scalable web architectures and clean code  
 🎓 Instructor assistant & collaborative learner  
 🚀 Looking for my first professional opportunity in tech
 
-## 🚀 Tech Stack
+
+## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
+
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
+
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 ![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android)
 
 
-## Tools I use
-
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </p>
 
 ## GitHub Stats
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroFV74&count_private=true&show_icons=true&theme=radical)
