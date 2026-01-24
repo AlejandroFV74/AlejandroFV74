@@ -35,6 +35,7 @@
 <p> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/abraham-flores-524425249" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /> </a> <!-- Instagram --> <a href="https://www.instagram.com/alejandro.flores_274" target="_blank" style="margin-left: 10px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" /> </a> </p>
 
+##
 > “First, solve the problem. Then, write the code.” – John Johnson
 
 
