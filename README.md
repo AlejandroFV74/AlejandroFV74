@@ -2,8 +2,20 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AlejandroFV74)
 
-🎓 I'm a 20-year-old Computer Engineering student with a passion for technology and software development.  
-♟️ In my free time, I enjoy playing chess to sharpen my strategic thinking.
+## 👋 About Me
+💻 Computer Science student & Android / Web Developer  
+📱 Passionate about mobile apps, scalable web architectures and clean code  
+🎓 Instructor assistant & collaborative learner  
+🚀 Looking for my first professional opportunity in tech
+
+## 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android)
+
 
 ## Tools I use
 
@@ -17,12 +29,13 @@
 ## GitHub Stats
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroFV74&count_private=true&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroFV74&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlejandroFV74)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejandroFV74&theme=redical)
 
 ## Connect with me
 <p> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/abraham-flores-524425249" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /> </a> <!-- Instagram --> <a href="https://www.instagram.com/alejandro.flores_274" target="_blank" style="margin-left: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" /> </a> </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" /> </a> </p>
 
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 
 
