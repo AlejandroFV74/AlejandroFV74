@@ -7,6 +7,7 @@
 📱 Passionate about mobile apps, scalable web architectures and clean code  
 🎓 Instructor assistant & collaborative learner  
 🚀 Looking for my first professional opportunity in tech
+🔭 I’m currently working on Develop an e-commerce website using Angular
 
 
 ## Tech Stack
