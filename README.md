@@ -6,8 +6,8 @@
 💻 Computer Science student & Android / Web Developer  
 📱 Passionate about mobile apps, scalable web architectures and clean code  
 🎓 Instructor assistant & collaborative learner  
-🚀 Looking for my first professional opportunity in tech
-🔭 I’m currently working on Develop an e-commerce website using Angular
+🚀 Looking for my first professional opportunity in tech  
+🔭 I’m currently working on Develop an e-commerce website using Angular  
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
