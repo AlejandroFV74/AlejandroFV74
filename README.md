@@ -14,15 +14,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3-alt&logoColor=1572B6)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
 
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Apache](https://img.shields.io/badge/Apache-000?style=for-the-badge&logo=apache)
+
 ![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android)
 
 
