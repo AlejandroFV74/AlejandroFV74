@@ -34,7 +34,9 @@
 
 ## GitHub Stats
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroFV74&count_private=true&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroFV74&theme=radical)
+
+![GitHub Streak](https://streak-stats.vercel.app?user=AlejandroFV74&theme=radical)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejandroFV74&theme=redical)
 
 ## Connect with me
