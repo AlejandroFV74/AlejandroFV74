@@ -38,7 +38,6 @@
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlejandroFV74&theme=radical)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlejandroFV74&theme=radical)
 ![GitHub Streak](https://streak-stats.vercel.app?user=AlejandroFV74&theme=radical)
-![Snake animation](https://raw.githubusercontent.com/AlejandroFV74/AlejandroFV74/output/github-contribution-grid-snake.svg)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejandroFV74&theme=redical)
 
 ## Connect with me
