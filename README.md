@@ -3,7 +3,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AlejandroFV74)
 
 ## About Me
-💻 Computer Science student & Android / Web Developer  
+💻 Computer Science student & Web Developer  
 📱 Passionate about mobile apps, scalable web architectures and clean code  
 🎓 Instructor assistant & collaborative learner  
 🚀 Looking for my first professional opportunity in tech  
